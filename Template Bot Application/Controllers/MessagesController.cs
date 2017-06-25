@@ -1,11 +1,11 @@
 ﻿using System.Net;
-using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
 using Template_Bot_Application.Dialogs;
 using Microsoft.Bot.Builder.FormFlow;
+using System.Net.Http;
 
 namespace Template_Bot_Application
 {
