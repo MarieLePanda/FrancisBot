@@ -80,3 +80,4 @@ C:\Users\lugirard\Documents\GitHub\FrancisBot\Template Bot Application\bin\zh-ha
 C:\Users\lugirard\Documents\GitHub\FrancisBot\Template Bot Application\obj\Debug\Template Bot Application.csprojResolveAssemblyReference.cache
 C:\Users\lugirard\Documents\GitHub\FrancisBot\Template Bot Application\obj\Debug\Bot Application.dll
 C:\Users\lugirard\Documents\GitHub\FrancisBot\Template Bot Application\obj\Debug\Bot Application.pdb
+C:\Users\Brice\Desktop\FrancisBot\Template Bot Application\obj\Debug\Template Bot Application.csprojResolveAssemblyReference.cache
